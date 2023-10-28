@@ -45,4 +45,4 @@ If you need help installing or using the module, you shouldn't.
 
 ## License
 
-`pyrube` is licensed under [**WTFPL**](LICENSE.txt) license.
+`pyrube` is licensed under [**WTFPL**](LICENSE) license.
