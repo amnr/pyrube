@@ -42,3 +42,7 @@ catatonia(1.5)
 ## Getting Help
 
 If you need help installing or using the module, you shouldn't.
+
+## License
+
+`pyrube` is licensed under [**WTFPL**](LICENSE.txt) license.
